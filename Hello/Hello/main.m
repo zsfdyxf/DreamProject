@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
 {
     // fix 1
     // fix 2
+    // fix 3
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
